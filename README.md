@@ -1,2 +1,2 @@
 # matlabroomba
-1/to start just link all the output ports to disply blocks.
+for information on how to use please check the video in the instruction folder.
