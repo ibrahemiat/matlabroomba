@@ -1,4 +1,8 @@
 # matlabroomba
+# please don't use the test file, it's just to show you how to connect the library blocks.
+the library has been updated to accommodate other computers matlab settings  
+
+
 for information on how to use, please check this video
 
 
