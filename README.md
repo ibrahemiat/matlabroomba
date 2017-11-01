@@ -13,9 +13,14 @@ for information on how to use, please check this video
 
 
 # project 2: Roomba Auto Obstacle Avoidance:
-the code is created using Matlab 2017 a, so it could not function properly with other versions.
-initally folow all the setup steps from the video above.
-its possible to add the the library provided in the folder (project 2) to your library browser by folowing the instructions in the link below:
+1\ the code is created using Matlab 2017 a, so it could not function properly with other versions.
+
+2\ initally folow all the setup steps from the video above.
+
+3\ its possible to add the the library provided in the folder (project 2) to your library browser by folowing the instructions in the link below:
+
 https://www.mathworks.com/matlabcentral/answers/93939-how-do-i-add-a-custom-library-to-the-simulink-library-browser-in-simulink-4-1-r12-1
-then make sure the file RoombaInit_wifi.m is in the same directory you are workink from.
-then run the test file.
+
+4\ then make sure the file RoombaInit_wifi.m is in the same directory you are workink from.
+
+5\ then run the test file.
